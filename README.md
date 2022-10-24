@@ -1,2 +1,2 @@
 # hello-world
-I am learning to use GitHub, while picking up the bare minimum of some markdown elements.
+I am learning to use GitHub, while picking up the __bare minimum__ of some markdown elements.
